@@ -1,6 +1,18 @@
 ## idea
 https://overreacted.io/
 
+## Install react moment
+[react moment](https://momentjs.com/)
+
+```
+npm install moment --save
+```
+
+## Screenshots
+<img width="386" alt="dark-mode-project (1)" src="https://user-images.githubusercontent.com/36413759/167238371-d3f6b80d-a630-4080-849e-7cb32e2fd764.png">
+<img width="386" alt="dark-mode-project (2)" src="https://user-images.githubusercontent.com/36413759/167238376-1726fcf9-c6b8-4833-8abf-7fa63b4125b2.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
